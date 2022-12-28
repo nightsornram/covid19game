@@ -1,6 +1,6 @@
 # covid19game
 
-# หย้าแรก
+# หน้าแรก
 ![Screenshot (88)](https://user-images.githubusercontent.com/62074317/209799904-a3f71aed-0745-4a8a-b4dd-9bdf3b339067.png)
 
 # หน้าเกม
